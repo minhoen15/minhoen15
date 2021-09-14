@@ -7,7 +7,6 @@
     <title>Minh la Hoan day</title>
 </head>
 <body>
-    <h1>chào các bạn đã đến với thế giới của mình</h1>
-    <h3>How are you?</h3>
+    <h2>Welcome to Ha Noi City</h2>
 </body>
 </html>
